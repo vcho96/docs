@@ -22,4 +22,4 @@ Translation efforts are managed in the [vuejs-translations](https://github.com/v
 
 We are hoping to establish a standard workflow for community translations so that we can more easily coordinate community efforts. Please keep an eye on the [Translation Guidelines repo](https://github.com/vuejs-translations/guidelines/blob/main/README.md) for updates.
 
-In the meanwhile, if you are interested in starting translation for a new language, please open a thread in the [Discussions](https://github.com/vuejs-translations/guidelines/discussions) (and check if there is already one created for your language). This can help you find fellow collaborators and avoid duplicated efforts.
+In the meanwhile, if you are interested in starting translation for a new language, please open a thread in the [Discussions](https://github.com/vuejs-translations/guidelines/discussions) (and check if there is already one created for your language). This can help you find fellow collaborators and avoid duplicated efforts .
